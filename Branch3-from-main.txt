@@ -2,3 +2,8 @@ line 1 branch-3  commit-1
 line 2 branch-3  commit-1
 line 3 branch-3  commit-1
 
+***************
+
+line 7 branch-3  commit-1
+line 8 branch-3  commit-1
+line 9 branch-3  commit-1
