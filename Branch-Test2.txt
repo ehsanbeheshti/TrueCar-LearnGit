@@ -1,0 +1,9 @@
+line 1 - branch 1
+line 2 - branch 1
+line 3 - branch 1
+*********************************
+line 4 - branch 2
+line 5 - branch 2
+line 6 - branch 2
+*********************************
+
