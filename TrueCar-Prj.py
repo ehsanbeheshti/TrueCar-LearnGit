@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 Check_flag = False
 db_user ='admin'
 db_pass = 'Aa123456!@#$%^'
-db_name = 'truecar19'
+db_name = 'truecar20'
 db_table1 = 'TrueCar'
 
 ########################## ADD to DB
@@ -65,3 +65,4 @@ addToDB (db_user,db_pass,db_name,'ferari4','sankhoze4','test4' , 'test4')
 
 selectDB (db_user,db_pass,db_name,db_table1)
 
+print('change')
