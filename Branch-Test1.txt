@@ -13,3 +13,10 @@ line 12  - branch 1  -commit2
 line 13  - branch 1  -commit2
 line 14  - branch 1  -commit2
 
+
+*********************************
+*********SYN to Commit***********
+*********************************
+line 20  - branch 1  -commit4
+line 21  - branch 1  -commit4
+line 22  - branch 1  -commit4
